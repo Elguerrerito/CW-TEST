@@ -10,6 +10,12 @@
 			"newCategory": "general",
 			"Date": "29/07/2022",
 			"new": "Se añadieron las novedades"
+		},
+		{
+			"newID": 2,
+			"newCategory": "general",
+			"Date": "29/07/2022",
+			"new": "Se actualizaron las novedades"
 		}
 	]
 }
