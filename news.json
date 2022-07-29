@@ -1,14 +1,15 @@
-[
-     	{
-		"newID": "Example",
-		"newCategory": "Actualiacion", // Disponibles: Actualizacion, General
-		"Date": "29/07/2022",
-		"new": "This is an example for a new. \n Esto es un ejemplo de una novedad"
-	},
-	{
-		"newID": "1",
-		"newCategory": "general", // Disponibles: Actualizacion, General
-		"Date": "29/07/2022",
-		"new": "Se añadieron las novedades"
-	}
-]
+{
+	"news": [{
+			"newID": "Example",
+			"newCategory": "Actualiacion", // Disponibles: Actualizacion, General
+			"Date": "29/07/2022",
+			"new": "This is an example for a new. \n Esto es un ejemplo de una novedad"
+		},
+		{
+			"newID": "1",
+			"newCategory": "general", // Disponibles: Actualizacion, General
+			"Date": "29/07/2022",
+			"new": "Se añadieron las novedades"
+		}
+	]
+}
