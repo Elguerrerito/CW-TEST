@@ -7,15 +7,15 @@
 		},
 		{
 			"newID": 1,
-			"newCategory": "general",
+			"newCategory": "General",
 			"Date": "29/07/2022",
-			"new": "Se añadieron las novedades"
+			"new": "Se añadieron las Novedades"
 		},
 		{
 			"newID": 2,
-			"newCategory": "general",
+			"newCategory": "General",
 			"Date": "29/07/2022",
-			"new": "Se actualizaron las novedades"
+			"new": "Se actualizaron las Novedades"
 		}
 	]
 }
