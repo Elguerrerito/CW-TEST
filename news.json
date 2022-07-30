@@ -1,7 +1,7 @@
 {
 	"news": [{
 			"newID": 0,
-			"newCategory": "Actualiacion",
+			"newCategory": "Actualizacion",
 			"Date": "29/07/2022",
 			"new": "This is an example for a new. \nEsto es un ejemplo de una novedad"
 		},
@@ -16,12 +16,6 @@
 			"newCategory": "General",
 			"Date": "29/07/2022",
 			"new": "Se actualizaron las Novedades"
-		},
-		{
-			"newID": 3,
-			"newCategory": "General",
-			"Date": "29/07/2022",
-			"new": "Se actualizaron las Novedades Again"
 		}
 	]
 }
