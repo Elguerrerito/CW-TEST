@@ -13,19 +13,19 @@
 		},
 		{
 			"newID": 2,
-			"newCategory": "General",
+			"newCategory": "extra",
 			"Date": "29/07/2022",
 			"new": "Se actualizaron las Novedades"
 		},
 		{
 			"newID": 3,
-			"newCategory": "General",
+			"newCategory": "mobs",
 			"Date": "29/07/2022",
 			"new": "Se actualizaron las Novedades denuevo"
 		},
 		{
 			"newID": 4,
-			"newCategory": "General",
+			"newCategory": "server",
 			"Date": "29/07/2022",
 			"new": "Se actualizaron las Novedades denuevo denuevo"
 		},
