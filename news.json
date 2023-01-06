@@ -25,33 +25,9 @@
 		},
 		{
 			"newID": 4,
-			"newCategory": "Server",
-			"Date": "29/07/2022",
-			"new": "Se actualizaron las Novedades denuevo denuevo"
-		},
-		{
-			"newID": 5,
 			"newCategory": "General",
-			"Date": "29/07/2022",
-			"new": "Se actualizaron las Novedades denuevo denuevo denuevo"
-		},
-		{
-			"newID": 6,
-			"newCategory": "General",
-			"Date": "29/07/2022",
-			"new": "Se actualizaron las Novedades denuevo denuevo denuevo denuevo"
-		},
-		{
-			"newID": 7,
-			"newCategory": "General",
-			"Date": "29/07/2022",
-			"new": "Se actualizaron las Novedades denuevo denuevo denuevo denuevo denuevo"
-		},
-		{
-			"newID": 8,
-			"newCategory": "General",
-			"Date": "29/07/2022",
-			"new": "Se actualizaron las Novedades denuevo denuevo denuevo denuevo denuevo denuevo denuevo denuevo denuevo denuevo denuevo denuevo denuevo denuevo denuevo denuevo denuevo"
+			"Date": "05/01/2023",
+			"new": "Vamos a probar haber si se actualiza"
 		}
 	]
 }
